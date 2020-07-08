@@ -1,6 +1,6 @@
 File 1 notepad
 
-Now, i have made 1st changes in the file.
+
 
 int a=5, b=6, x
 
@@ -11,3 +11,13 @@ x=a-b
 x=a%b
 
 this is modifying file after creating branch1
+
+int a=5, b=6, x
+
+x=a+b
+
+x=a-b
+
+x=a%b
+
+x=a*b
