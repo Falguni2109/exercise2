@@ -5,3 +5,7 @@ Now, i have made 1st changes in the file.
 int a=5, b=6, x
 
 x=a+b
+
+x=a-b
+
+x=a%b
